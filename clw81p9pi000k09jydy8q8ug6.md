@@ -9,7 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/l3N9Q27zULw/up
 
 **TL;DR for Part Two: The Case for Incremental Refinements**
 
-This article advocates for incremental refinements, emphasizing the benefits of gradual improvements that enhance functionality, reduce risks, and maintain user familiarity without the upheaval of a full redesign. For insights into why a more radical approach might sometimes be necessary, see [Part One: The Case for Comprehensive Redesigns](https://omoladeodetara.com/the-great-debate-revolution-vs-evolution-in-product-engineering-part-1).
+This article advocates for incremental refinements, emphasizing the benefits of gradual improvements that enhance functionality, reduce risks, and maintain user familiarity without the upheaval of a full redesign. For insights into why a more radical approach might sometimes be necessary, see [Part One: The Case for Comprehensive Redesigns](https://omoladeodetara.hashnode.dev/the-great-debate-revolution-vs-evolution-in-product-engineering-part-1).
 
 #### The Case for Incremental Improvements
 
