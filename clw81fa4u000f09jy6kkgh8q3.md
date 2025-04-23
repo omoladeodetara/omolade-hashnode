@@ -11,7 +11,7 @@ In the rapidly evolving world of product development, the visual and functional 
 
 #### TL;DR for Part One: The Case for Comprehensive Redesigns
 
-This article argues for the necessity of comprehensive redesigns in product development, highlighting their ability to overhaul outdated systems, address extensive technical and design debts, and reinvigorate user interfaces for competitive advantage. For a contrasting perspective on adopting a more cautious approach, see [Part Two: The Case for Incremental Refinements](https://omoladeodetara.com/the-great-debate-revolution-vs-evolution-in-product-engineering-part-2).
+This article argues for the necessity of comprehensive redesigns in product development, highlighting their ability to overhaul outdated systems, address extensive technical and design debts, and reinvigorate user interfaces for competitive advantage. For a contrasting perspective on adopting a more cautious approach, see [Part Two: The Case for Incremental Refinements](http://omoladeodetara.hashnode.dev/the-great-debate-revolution-vs-evolution-in-product-engineering-part-2).
 
 Some advocate for cautious, incremental improvements to avoid disrupting the user experience, this approach often leads to stagnation and missed opportunities. Here, I argue for the necessity of embracing full-scale redesigns—not as a last resort, but as a proactive, strategic decision essential for staying relevant and competitive.
 
