@@ -1,5 +1,5 @@
 ---
-title: "The Great Debate: Revolution vs. Evolution in Product & Engineering (Part 2)"
+title: "The Great Debate: Revolution vs. Evolution in Product & Engineering. (Part 2)."
 datePublished: Mon Jun 26 2023 22:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clw81p9pi000k09jydy8q8ug6
 slug: the-great-debate-revolution-vs-evolution-in-product-engineering-part-2
