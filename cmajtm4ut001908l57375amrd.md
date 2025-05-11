@@ -3,6 +3,8 @@ title: "Building Frameworks: Championing Global Lunar Policy"
 datePublished: Wed Feb 15 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmajtm4ut001908l57375amrd
 slug: building-frameworks-championing-global-lunar-policy
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wKlqqfNTLsI/upload/a21b3ce13adf3f500dfb2244eb96bb47.jpeg
+tags: lunar-exploration, space-industry-standards, sustainable-lunar-activities, united-nations-copuos, space-governance, lunar-policy
 
 ---
 
