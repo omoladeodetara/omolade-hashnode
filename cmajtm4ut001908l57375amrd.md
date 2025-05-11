@@ -10,6 +10,8 @@ slug: building-frameworks-championing-global-lunar-policy
 
 When I traded Lagos’ bustling markets for Strasbourg’s cobblestone streets, I thought I was just joining a startup. Instead, I found myself on a Zoom call with the United Nations, advocating for the future of lunar exploration-all while representing an industry, a nation, and a vision I hadn’t fully grasped until that moment.
 
+> From Lagos to the Moon, my journey has taken me from developing tech in Nigeria to advocating for global space policy at the United Nations. Joining Lee Space, I unexpectedly found myself involved with the Global Expert Group on Sustainable Lunar Activities (GEGSLA), aiming to establish guidelines for peaceful and collaborative lunar exploration.
+
 ## **An Unlikely Journey: From Local Developer to UN Delegate**
 
 My story starts in Nigeria, where tech innovation thrives despite infrastructure gaps. When I joined Lee Space, a company incubated at the International Space University (ISU), I imagined building software for satellites, rockets and space assets, not policy frameworks for the Moon. But life has a way of catapulting you into unexpected orbits.
@@ -42,6 +44,8 @@ Historically, space has been dominated by a few wealthy nations. But the Moon is
 *“Developing nations aren’t charity cases. We’re contributors. Involve us in drafting the rules, and you’ll get better rules.”*
 
 For example, Nigeria’s experience leapfrogging landlines to build a mobile-first economy could inspire creative solutions for lunar infrastructure. But if we’re excluded from early discussions, that potential is lost.
+
+> Representing Nigeria, I emphasized the importance of inclusivity and innovation from developing nations in space policy. Although the GEGSLA Framework is voluntary, it encourages cooperation, reduces risks, and sets standards to prevent chaos on the Moon. Our mission is to transition from a competitive space race to a mindset of shared destiny for humanity's future in space.
 
 ## **The Industry Paradox: Innovators Need Guardrails**
 
@@ -79,8 +83,12 @@ But the real work is cultural. We’re shifting from a zero-sum “space race”
 
 My journey from Lagos to Strasbourg to a UN Zoom grid taught me one thing: the next era of space won’t be defined by rockets alone. It’ll be shaped by **policy, partnerships, and the quiet power of showing up-even virtually**.
 
+> Through my involvement with GEGSLA, I've seen the potential for collaborative guidelines to prevent chaos on the Moon, while emphasizing the role of developing nations like Nigeria in shaping these rules. Despite the framework's voluntary nature, it's a vital step toward transforming the space race into a shared destiny for humanity's future in space. This narrative underscores the significance of policy, partnerships, and being present at the table where decisions are made.
+
 The GEGSLA Framework isn’t perfect. But like the early internet protocols that let incompatible computers communicate, it’s a starting point. And sometimes, just showing up-with a bold idea, a Nigerian accent, and a stable Wi-Fi connection-is enough to change the game.
 
 So here’s to the dreamers, the coders, and the diplomats. The Moon is waiting. Let’s build a future there that’s worthy of the best of humanity-*all* of humanity.
 
 *Want to dive deeper? Check out the full* [*GEGSLA Framework*](https://moonvillageassociation.org/gegsla/documents/gegsla-recommended-framework/)
+
+%[https://www.youtube.com/watch?v=lVa453ivuCE]
