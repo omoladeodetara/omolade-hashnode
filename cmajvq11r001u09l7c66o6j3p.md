@@ -3,6 +3,7 @@ title: "Networking, Nightlife, and New Tech: My CloudFest 2025 Story"
 datePublished: Sun May 11 2025 16:39:33 GMT+0000 (Coordinated Universal Time)
 cuid: cmajvq11r001u09l7c66o6j3p
 slug: networking-nightlife-and-new-tech-my-cloudfest-2025-story
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746992808913/3c501855-108d-483e-ac56-5043cd967331.jpeg
 
 ---
 
